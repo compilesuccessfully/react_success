@@ -30,3 +30,6 @@ const parent = React.createElement("div", { id: "parent" }, [
   ]);
   //above code creates complexity for resolve this here is we have JSX
   root.render(parent);
+  //npm is repo for managing pacakges almost all.
+  //npx parcel index.html[source file]
+  //created a server for this above command

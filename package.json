@@ -1,0 +1,26 @@
+{
+  "name": "-react-success",
+  "version": "1.0.0",
+  "description": "this is react by shreya",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compilesuccessfully/react_success.git"
+  },
+  "keywords": [
+    "react",
+    "shreya"
+  ],
+  "author": "UI-SME <ui-sme@gainsight.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compilesuccessfully/react_success/issues"
+  },
+  "homepage": "https://github.com/compilesuccessfully/react_success#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
