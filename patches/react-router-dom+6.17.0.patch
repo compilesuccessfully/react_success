@@ -1,0 +1,24 @@
+diff --git a/node_modules/react-router-dom/dist/index.mjs b/node_modules/react-router-dom/dist/index.mjs
+new file mode 100644
+index 0000000..5b81fd1
+--- /dev/null
++++ b/node_modules/react-router-dom/dist/index.mjs
+@@ -0,0 +1,18 @@
++/**
++ * react-router-dom v7.1.1
++ *
++ * Copyright (c) Remix Software Inc.
++ *
++ * This source code is licensed under the MIT license found in the
++ * LICENSE.md file in the root directory of this source tree.
++ *
++ * @license MIT
++ */
++
++// index.ts
++import { RouterProvider } from "react-router-dom"
++export * from "react-router";
++export {
++
++  RouterProvider
++};

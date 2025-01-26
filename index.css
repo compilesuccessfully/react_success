@@ -1,3 +1,114 @@
-#heading{
-    color: brown;
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+    background-color: floralwhite;
+    font-family: serif;
+    font-weight: bold;
+    color: crimson;
+   
 }
+
+.logo {
+    width: 100px;
+    border-radius: 50%;
+    border: 4px solid crimson;
+}
+.nav-items{
+    padding: 0px 20px;
+}
+.nav-items > ul{
+   display: flex;
+   font-size: 24px;
+   list-style-type: none;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+    margin: 10px;
+}
+
+.res-card{
+   width: 250px;
+   border-radius: 30px;
+   max-height: 400px;
+   overflow: hidden;
+   padding: 5px;
+   box-shadow: 7px solid crimson;
+
+}
+.res-card:hover{
+    cursor: pointer;
+    border: 3px solid crimson; 
+  
+}
+
+.search{
+    padding: 10px ;
+}
+
+
+.res-logo {
+    width: 100%;
+    border-radius: 15px;
+    height: 190px;
+
+}
+.res-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-cards{
+    width: 200px;
+    height: 400px;
+    margin: 20px;
+    background-color: lightgrey
+}
+.login{
+    padding: 0 35px;
+    height: 30px;
+    cursor: pointer;
+    background-color:  white;
+    color: crimson;
+    border: 1px solid crimson;
+    border-radius: 15px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-card{
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+    margin: 20px;
+    
+}
+.filter{
+    display: flex;
+}
+.user-card{
+    padding: 10px;
+    border: 1px solid black;
+} */
